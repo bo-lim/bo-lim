@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bo-lim%20&fontSize=90&fontAlignY=35)
 ### ML/DL Engineer
 ### Interst
-- Computer Vision / NLP
+- Computer Vision / NLP / Multi Modal
 - MLOps
 - Communication Skill & Knowledge Sharing
 
