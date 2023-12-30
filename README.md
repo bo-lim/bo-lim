@@ -1,13 +1,17 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bo-lim%20&fontSize=90&fontAlignY=35)
-### ML/DL Engineer
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bolim%20&fontSize=90&fontAlignY=35)
+### Goal
+- 방대한 빅데이터 속에서 사용자의 마음을 찾아내어 나만의 가치를 제안하는 **Data Engineer**
+### Blog -> https://cstory-bo.tistory.com
+### Portfolio -> https://www.notion.so/b2fe83ca5594497887b64892f6ac90e9?pvs=4
+
 ### Interst
-- Computer Vision / NLP / Multi Modal
+- Data Engineering
+- AI - Computer Vision / NLP / Multi Modal
 - MLOps
 - Communication Skill & Knowledge Sharing
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bo-lim&theme=github_dark)
 
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=velog&link=https://velog.io/@bo-lim)](https://velog.io/@bo-lim)
-[![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ant67410@gmail.com)](mailto:ant67410@gmail.com)
+
 	
